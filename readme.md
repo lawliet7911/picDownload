@@ -1,0 +1,1 @@
+# 先执行 node node_modules/puppeteer/install.mjs 安装浏览器内核
